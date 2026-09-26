@@ -1,0 +1,8 @@
+[package]
+name = "minicodex"
+version = "0.1.0"
+edition = "2024"
+description = "A tiny, dependency-free macOS coding agent inspired by Codex"
+license = "MIT"
+
+[dependencies]
